@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**WalterByte-afk/WalterByte-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🧪 WalterByte
+**3D Artist & AI Data Pilot**
 
-Here are some ideas to get you started:
+> "I am the one who codes."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+* **AI & Data:** Building competitor intelligence agents (Wayfair Extern).
+* **3D Art:** Hard-surface modeling & web-optimized assets in Blender 4.3.
+* **Scraping:** Extracting clean JSON from complex sites using Playwright.
+
+### 🛠 Tech Stack
+**Python | Blender | n8n | React Three Fiber**
+
+---
+🐈 *Code supervised by the Chief Debugging Officer (see PFP).*
+🇵🇰 *Based in Pakistan*
