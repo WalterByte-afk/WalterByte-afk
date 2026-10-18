@@ -1,43 +1,50 @@
 <div align="center">
 
-# Hi, I'm WalterByte 👋
+# WalterByte 👋
 
-> *Vibe coding and building brain-inspired systems.*
+> *I am the one who codes.*
 
-<!-- Animated header using a soft, modern gradient -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=30&duration=3000&pause=1000&color=6366f1&center=true&vCenter=true&width=500&lines=Cybersecurity+Research;Neural+Architecture+Design;Vibe+Coder+&+3D+Artist" alt="Typing Animation" />
-</p>
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=30&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=500&lines=Cybersecurity+Research;Neural+Architecture+Design;Vibe+Coder+&+3D+Artist" alt="Typing Animation" />
 
-<!-- Modern Bento-Style Grid Layout -->
+</div>
+
+<!-- Bento Grid Stats Section -->
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
-    <td align="center" width="200">
-      <h3>🧠 AI & Neural</h3>
-      <p>Building NEXUS-Ω brain models.</p>
+    <td align="center" width="300">
+      <img src="https://github-readme-stats.vercel.app/api?username=WalterByte-afk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0f1a&title_color=38bdf8&icon_color=a78bfa&text_color=e2e8f0" alt="GitHub Stats" />
     </td>
-    <td align="center" width="200">
-      <h3>🛡️ Security</h3>
-      <p>Red & Blue team ops on Arch.</p>
-    </td>
-    <td align="center" width="200">
-      <h3>🎨 3D & Vibe</h3>
-      <p>High-perf hard-surface art.</p>
+    <td align="center" width="300">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=WalterByte-afk&repo=nexus&theme=tokyonight&hide_border=true&area=true&custom_color_bg=0f0f1a" alt="Activity Graph" />
     </td>
   </tr>
 </table>
 
-<!-- Sleek Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WalterByte-afk&theme=tokyonight&area=true&hide_border=true&custom_title=Coding+Activity" alt="Activity Graph" />
+---
 
-</div>
+### 🧠 Neural AI Architecture
+A biology‑inspired stack:
+- **Sparse Dynamic Routing** – selects 1‑2% of 1024 micro‑experts per token.
+- **KAN Activation Edges** – learnable B‑spline functions on edges.
+- **Predictive Coding** – local Hebbian error minimization.
+- **Adaptive Recurrent Depth** – dynamically scales depth per input.
+- **Dual‑Plasticity Weights** – fast plastic + slow consolidated weights.
+- **Synaptic Consolidation** – EWC prevents catastrophic forgetting.
+- **Engram Memory Cortex** – sparse distributed memory with massive capacity.
 
 ---
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,linux,arch,blender,git,github,bash,neovim,vscode&theme=dark" />
-</p>
+### 🔐 Cybersec (Red/Blue)
+- **Red Team:** Adversarial attack simulations, exploit generation, and security stress‑testing.
+- **Blue Team:** Real‑time defense, anomaly detection, and automated pa
+
+---
+
+### 🎨 3D Vibe Coding
+Immersive environments & high-performance visuals:
+- Modern UI with dynamic lighting.
+- Interactive coding sessions that feel like a virtual studio.
 
 ---
 
