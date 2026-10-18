@@ -1,28 +1,28 @@
 <div align="center">
 
-# Hi there 👋 I'm WalterByte
+# ⚡ SYSTEM INITIALIZED: WalterByte
+> *I am the one who codes.*
 
-> *"I am the one who codes."*
+<!-- Dynamic Typing Effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Cybersecurity+Red%2FBlue+Ops;Neuromorphic+AI+Architect;3D+Vibe+Coder+&+Designer" alt="Typing Animation" />
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WalterByte-afk&color=blueviolet&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/badge/OS-Arch%20Linux%20%2F%20BlackArch-1793d1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Vibe-Coding-ff007f?style=flat-square&logo=fire&logoColor=white" alt="Vibe Coding" />
-</p>
+<br>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WalterByte-afk&theme=react-dark&area=true&hide_border=true&custom_title=System+Activity" alt="Activity Graph" />
 
 </div>
 
 ---
 
-### 🚀 What I Do
-* **🧠 Advanced AI & Neural Systems:** Architecting neuromorphic, dual-plasticity AI models (like NEXUS-Ω) from scratch.
-* **🛡️ Cybersecurity (Red & Blue):** Penetration testing, defensive engineering, and tactical ops on **Arch / BlackArch Linux**.
-* **🎨 3D Art & Modeling:** Hard-surface design, visual asset creation, and 3D rendering.
-* **⚡ Vibe Coding:** Building fast, intelligent, real-world systems with cutting-edge workflows.
+### 🚀 COMMAND CENTER
+* **🧠 Neural Systems:** Designing neuromorphic, dual-plasticity AI from scratch (NEXUS-Ω).
+* **🛡️ Cybersecurity:** Penetration testing & defensive hardening on **Arch/BlackArch Linux**.
+* **🎨 3D & Vibe:** Hard-surface modeling + "vibe coding" high-performance assets.
 
----
-
-### 🛠 Tech Stack & Environment
+### 🛠️ TECH STACK
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,linux,arch,blender,git,github,bash,neovim,vscode&theme=dark" />
 </p>
