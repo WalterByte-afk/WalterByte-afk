@@ -6,17 +6,6 @@
 
 <!-- Animated header using a soft, modern gradient -->
 <p align="center">
-
-here is the updated profile aesthetic—it uses a clean, modular structuren matrix nonsense, and smooth animated icons:
-
-<div align="center">
-
-# Hi, I'm WalterByte 👋
-
-> *Vibe coding and building brain-inspired systems.*
-
-<!-- Animated header using a soft, modern gradient -->
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=30&duration=3000&pause=1000&color=6366f1&center=true&vCenter=true&width=500&lines=Cybersecurity+Research;Neural+Architecture+Design;Vibe+Coder+&+3D+Artist" alt="Typing Animation" />
 </p>
 
